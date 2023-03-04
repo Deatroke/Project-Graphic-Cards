@@ -25,6 +25,8 @@ header {
     background-color: #ffffff;
     min-height: 60vh;
     padding: 50px;
+    display: flex;
+    justify-content: center;
 }
 
 .products-container {
